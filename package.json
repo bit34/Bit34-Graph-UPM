@@ -1,7 +1,7 @@
 {
     "name": "com.bit34games.graph",
     "displayName": "Bit34 Graph - Graph library for Unity",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "This is minimal graph library that has been written in C# to be used with Unity.",
     "unity": "2019.4",
     "documentationUrl": "https://github.com/bit34/bit34-graph/",
