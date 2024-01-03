@@ -16,3 +16,6 @@ nupkg/
 
 # Visual Studio 2015
 .vs/
+
+Bit34-Graph.deps.json
+Bit34-Graph.pdb
